@@ -14,21 +14,23 @@
 ## 1. Introduction
 Dans le cadre du cours de Développement d'Applications Mobiles, je vais concevoir et développer une application mobile à l'aide du framework Flutter.
 
-La première étape de ce projet a été de choisir une idée d'application qui répond à un réel besoin utilisateur.
+La première étape de ce projet a été de choisir une idée d'application qui répond à un besoin concret.
+
+J'ai choisi de développer Modest Wardrobe, une application autour de la garde-robe numérique et de la modest fashion, car c'est un domaine qui m'intéresse et dans lequel j'avais envie de réaliser mon projet.
 
 ## 2. Présentation des dossiers
 
 ## 3. Contexte 
-Lorsqu'on possède beaucoup de vêtements, l'organisation d'une garde-robe peut parfois être compliquée. Il n'est pas toujours facile de visualiser l'ensemble de ses pièces. On finit souvent par porter les mêmes tenues, simplement parce qu'on ne pense à associer certains vêtements entre eux.
+Lorsqu'on possède beaucoup de vêtements, l'organisation d'une garde-robe peut parfois être compliquée. Il n'est pas toujours facile de visualiser l'ensemble de ses pièces. On finit souvent par porter les mêmes tenues, simplement parce qu'on ne pense pas à associer certains vêtements entre eux.
 
-Pour les personnes qui s'intéressent à la modest fashion, composer une tenue peut demander un peu plus de réflexion, notamment pour trouver des associations qui correspondent à leur style.
+Pour les personnes qui s'intéressent à la modest fashion, trouver des vêtements qui vont bien ensemble tout en respectant leur style peut parfois être compliqué.
 
-C'est de là que vient l'idée de Modest Wardrobe : une application mobile qui permet de rassembler ses vêtements dans une garde-robe numérique, de créer différentes tenues à partir des pièces qu'on possède et de les planifier selon les occasions.
+C'est de là que vient l'idée de Modest Wardrobe. J'aimerais créer une application qui aide à mieux organiser sa garde-robe et à trouver plus facilement des idées de tenues.
 
 ## 4. Présentation de l'application
-Modest Wardrobe est une application mobile qui permettra aux utilisatrices de créer leur garde-robe numérique à partir de vêtements qu'elles possèdent déjà. 
+Modest Wardrobe est une application mobile qui permettra aux utilisatrices de retrouver leurs vêtements et leurs tenues au même endroit.
 
-Elles pourront ainsi retrouver leurs vêtements au même endroit, créer différentes tenues et les planifier selon leurs besoins ou les occasions.
+L'idée est d'avoir une garde-robe accessible directement depuis son téléphone, pour pouvoir consulter ses vêtements et réfléchir à ses tenues sans forcément devoir ouvrir son armoire.
 
 Cette application offrira plusieurs avantages :
 - **Un gain de temps** : préparer ses tenues à l'avance pour éviter de devoir chercher quoi porter au dernier moment.
@@ -43,11 +45,11 @@ Cette application offrira plusieurs avantages :
     - [ok] Choix de l'idée
     - [ok] Définition du contexte et du public cible
     - [ok] Liste des fonctionnalités envisagées
-    - [à faire] Étude de l'existant
+    - [ ] Étude de l'existant
 
 ### Développement de l'application
 
-Cette section sera complétée au fur et à mesure du développement de Modest Wardrobe. Les fonctionnalités réalisées seront présentées avec des captures d'écran pour illustrer leur fonctionnement.
+Cette section sera complétée au fur et à mesure du développement de Modest Wardrobe. Les fonctionnalités réalisées seront présentées avec des captures d'écran pour montrer comment elles fonctionnent.
 
 ## 6. Public cible
 Modest Wardrobe s'adresse principalement :
@@ -59,6 +61,12 @@ Modest Wardrobe s'adresse principalement :
 ## 7. Étude de l'existant
 
 ## 8. Fonctionnalités de l'application
+### Authentification
+- Créer un compte utilisateur.
+- Se connecter et se déconnecter de l'application.
+- Réinitialiser son mot de passe en cas d'oubli.
+- Accéder à ses vêtements et à ses tenues après connexion.
+
 ### Gestion de la garde-robe
 - Ajouter des vêtements avec une photo et des informations (catégorie, couleur, saison).
 - Visualiser l'ensemble de ses vêtements.
